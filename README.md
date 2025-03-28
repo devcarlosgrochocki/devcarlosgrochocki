@@ -20,7 +20,7 @@
 
 Olá! Sou um desenvolvedor Front-End apaixonado por criar interfaces que impactam e transformam experiências. Minha jornada na tecnologia é movida por desafios e pela busca constante de inovação.
 
-Atualmente na **Trabalha Brasil (TBR) - Banco Nacional de Empregos (BNE)**, tenho:
+Atualmente no **Trabalha Brasil (TBR) - Banco Nacional de Empregos (BNE)**, tenho:
 
 - 🚀 **Aumentado a satisfação dos usuários em 20%** otimizando interfaces e acessibilidade
 - ⚡ **Reduzido tempos de carregamento em 40%** com técnicas avançadas de lazy loading
